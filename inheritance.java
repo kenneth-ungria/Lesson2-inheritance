@@ -14,7 +14,7 @@ public class inheritance {
     public String getName(){
         return this.name;
     }
-    //Method for getting age
+    //Method for getting age 
     public int getAge(){
         return this.age;
     }

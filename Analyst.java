@@ -8,3 +8,4 @@ public class Analyst extends inheritance{
         return super.salary * .05;
     }
 }
+
